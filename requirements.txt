@@ -11,5 +11,5 @@ scipy
 geojsoncontour
 geojson
 zip-files
-yaml
+PyYAML
 math
