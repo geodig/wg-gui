@@ -10,6 +10,6 @@ numpy
 scipy
 geojsoncontour
 geojson
-zipfile
+zip-files
 yaml
 math
