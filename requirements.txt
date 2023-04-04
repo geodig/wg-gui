@@ -1,6 +1,5 @@
 streamlit_authenticator
 streamlit_extras
-PIL
 folium
 streamlit_folium
 matplotlib
