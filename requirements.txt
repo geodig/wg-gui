@@ -12,4 +12,3 @@ geojsoncontour
 geojson
 zip-files
 PyYAML
-math
