@@ -1,0 +1,16 @@
+streamlit_authenticator
+streamlit_extras
+PIL
+folium
+streamlit_folium
+matplotlib
+pandas
+openpyxl
+utm
+numpy
+scipy
+geojsoncontour
+geojson
+zipfile
+yaml
+math

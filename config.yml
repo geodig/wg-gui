@@ -1,0 +1,24 @@
+cookie:
+  expiry_days: 0
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    harn5:
+      email: harn5@gmail.com
+      name: Nicholas
+      password: $2b$12$ZVYm9VicR2knCbq8tSbfuuxMip5gW00jjH8X8HETfsuSKNAOZI3IK
+    yogb:
+      email: yogb@gmail.com
+      name: Boni
+      password: $2b$12$QvU0qsqdNt3So9dEBslWReFRYKuUq1ATEvU4ZnDTtN0VKKDwcDpcW
+    sary:
+      email: sary@gmail.com
+      name: Yulisa
+      password: $2b$12$gvFeqLxMA0DYjHrLXxfjwePDuxWWATsWtDsDVrXfum5ygF1yjok9S
+    popm3:
+      email: popm3@gmail.com
+      name: Monika
+      password: $2b$12$nWjN8fbgrtRaZS8A7nFdeuHb0jt/VRwZsv.coxZJzWf3Q0Zj.GVim
+preauthorized:
+  emails:
